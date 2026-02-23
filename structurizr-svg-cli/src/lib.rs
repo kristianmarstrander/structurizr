@@ -24,6 +24,9 @@ pub fn generate_svgs<P: AsRef<Path>>(
     let mut parser = DslParser::new();
     let workspace = parser.parse_file(dsl_path)?;
 
+    // Create output directory if it doesn't exist
+    std::fs::create_dir_all(&output_dir)?;
+
     // Generate SVGs for views
     let renderer = SvgRenderer::new();
     
