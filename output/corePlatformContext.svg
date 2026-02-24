@@ -1,0 +1,381 @@
+<svg height="3230" viewBox="0 0 3380 3230" width="3380" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="arrow" markerHeight="10" markerUnits="strokeWidth" markerWidth="10" orient="auto" refX="9" refY="3">
+<path d="M0,0 L0,6 L9,3 z" fill="#707070"/>
+</marker>
+</defs>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="325" x2="325" y1="450" y2="600"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="325" y="520">
+Accesses learning
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="1750" x2="1100" y1="392" y2="658"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="1425" y="520">
+Runs debrief
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="325" x2="325" y1="450" y2="1500"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="325" y="970">
+Accesses App
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="325" x2="325" y1="900" y2="1050"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="325" y="970">
+session id &amp; debrief service auth
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="875" x2="875" y1="900" y2="1050"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="875" y="970">
+Record/view results
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="508" x2="692" y1="1500" y2="1350"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="600" y="1420">
+Push results for supervisor review
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="325" x2="325" y1="1350" y2="1500"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="325" y="1420">
+Start/return to session
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="325" x2="325" y1="1800" y2="1950"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="325" y="1870">
+pre-sim data/score
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="508" x2="692" y1="1800" y2="1950"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="600" y="1870">
+in-sim actions &amp; results (UI updates)
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="1100" x2="1750" y1="2192" y2="2458"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="1425" y="2320">
+user actions &amp; session state
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="1792" x2="1608" y1="2700" y2="2850"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="1700" y="2770">
+speech inputs (ASR)
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="875" x2="875" y1="2250" y2="2400"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="875" y="2320">
+question prompts
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="692" x2="508" y1="2250" y2="2400"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="600" y="2320">
+educational responses
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="1058" x2="1242" y1="2250" y2="2400"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="1150" y="2320">
+speech output synthesis
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="1100" x2="2300" y1="2161" y2="2489"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="1700" y="2320">
+invoke model for in-sim decisions
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="1100" x2="2850" y1="2146" y2="2504"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="1975" y="2320">
+user actions &amp; sim state
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="2850" x2="550" y1="2586" y2="2964"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="1700" y="2770">
+operational telemetry
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="2850" x2="1100" y1="2596" y2="2954"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="1975" y="2770">
+analytics pipeline
+</text>
+</g>
+<g>
+<line marker-end="url(#arrow)" stroke="#707070" stroke-width="2" x1="1750" x2="550" y1="2428" y2="1772"/>
+<text fill="#707070" font-family="Arial, Helvetica, sans-serif" font-size="18px" text-anchor="middle" x="1150" y="2095">
+session id &amp; PIN
+</text>
+</g>
+<g>
+<rect fill="#438dd5" height="300" rx="20" ry="20" stroke="#ff0000" stroke-width="30" width="450" x="1750" y="2400"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="1975" y="2504">
+State Manager
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="1975" y="2538">
+[Service]
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="1975" y="2568">
+Manages the state of the system
+</text>
+</g>
+</g>
+<g>
+<rect fill="#438dd5" height="300" rx="20" ry="20" stroke="#ffbf00" stroke-width="30" width="450" x="100" y="1950"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="325" y="2054">
+Analytics Engine
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="2088">
+[Service]
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="2118">
+Performs pre-processing and analytics
+</text>
+</g>
+</g>
+<g>
+<rect fill="#1168bd" height="300" rx="20" ry="20" stroke="#ff0000" stroke-width="30" width="450" x="650" y="1050"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="875" y="1171">
+Data Repository
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="875" y="1205">
+Stores and manages system data
+</text>
+</g>
+</g>
+<g>
+<rect fill="#999999" height="300" rx="20" ry="20" stroke="#ffff00" stroke-width="30" width="450" x="100" y="2400"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="325" y="2504">
+Conversation AI - educational
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="2538">
+Conversational AI for
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="2568">
+education/explanations
+</text>
+</g>
+</g>
+<g>
+<rect fill="#1168bd" height="300" rx="20" ry="20" stroke="#1168bd" stroke-width="2" width="450" x="1200" y="150"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="1425" y="254">
+Security Baseline
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="1425" y="288">
+Provides security features and
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="1425" y="318">
+compliance.
+</text>
+</g>
+</g>
+<g>
+<rect fill="#1168bd" height="300" rx="20" ry="20" stroke="#ff0000" stroke-width="30" width="450" x="650" y="600"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="875" y="721">
+Reporting Service
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="875" y="755">
+Generates and displays reports
+</text>
+</g>
+</g>
+<g>
+<rect fill="#438dd5" height="300" rx="20" ry="20" stroke="#ff0000" stroke-width="30" width="450" x="100" y="1500"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="325" y="1604">
+WebApp
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="1638">
+[SPA]
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="1668">
+User interface for the platform
+</text>
+</g>
+</g>
+<g>
+<rect fill="#438dd5" height="300" rx="20" ry="20" stroke="#ff0000" stroke-width="30" width="450" x="100" y="1050"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="325" y="1154">
+Session Manager
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="1188">
+[Service]
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="1218">
+Manages user sessions and authentication
+</text>
+</g>
+</g>
+<g>
+<rect fill="#999999" height="300" rx="20" ry="20" stroke="#ffff00" stroke-width="30" width="450" x="1200" y="2400"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="1425" y="2521">
+Text to Speech Service
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="1425" y="2555">
+Speech synthesis
+</text>
+</g>
+</g>
+<g>
+<rect fill="#438dd5" height="300" rx="20" ry="20" stroke="#ffff00" stroke-width="30" width="450" x="650" y="1950"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="875" y="2054">
+Core Service
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="875" y="2088">
+[Service]
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="875" y="2118">
+The core service of the platform
+</text>
+</g>
+</g>
+<g>
+<g>
+<rect fill="#08427b" height="180" rx="90" stroke="#08427b" stroke-width="2" width="450" x="100" y="270"/>
+<circle cx="325" cy="216" fill="#08427b" r="66.666664" stroke="#08427b" stroke-width="2"/>
+<line stroke="#08427b" stroke-width="1" x1="190" x2="190" y1="350" y2="450"/>
+<line stroke="#08427b" stroke-width="1" x1="460" x2="460" y1="350" y2="450"/>
+</g>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="325" y="271">
+Student
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="305">
+Primary user of the system
+</text>
+</g>
+</g>
+<g>
+<rect fill="#438dd5" height="300" rx="20" ry="20" stroke="#ffbf00" stroke-width="30" width="450" x="2850" y="2400"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="3075" y="2487">
+Data Capture
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="3075" y="2521">
+[Service]
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="3075" y="2551">
+Captures user interactions and system
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="3075" y="2581">
+events
+</text>
+</g>
+</g>
+<g>
+<rect fill="#999999" height="300" rx="20" ry="20" stroke="#ffff00" stroke-width="30" width="450" x="1200" y="2850"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="1425" y="2971">
+Speech to Text Service
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="1425" y="3005">
+ASR service
+</text>
+</g>
+</g>
+<g>
+<rect fill="#999999" height="300" rx="20" ry="20" stroke="#00ff00" stroke-width="30" width="450" x="650" y="2850"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="875" y="2971">
+Analytics Service
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="875" y="3005">
+Analytics/lakehouse
+</text>
+</g>
+</g>
+<g>
+<rect fill="#1168bd" height="300" rx="20" ry="20" stroke="#ffbf00" stroke-width="30" width="450" x="650" y="150"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="875" y="271">
+Core Platform
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="875" y="305">
+The main application platform
+</text>
+</g>
+</g>
+<g>
+<rect fill="#438dd5" height="300" rx="20" ry="20" stroke="#ffbf00" stroke-width="30" width="450" x="2300" y="2400"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="2525" y="2504">
+Processing Engine
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="2525" y="2538">
+[Service]
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="2525" y="2568">
+Handles real-time data processing
+</text>
+</g>
+</g>
+<g>
+<rect fill="#999999" height="300" rx="20" ry="20" stroke="#ffff00" stroke-width="30" width="450" x="650" y="2400"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="875" y="2521">
+Conversation AI - questions
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="875" y="2555">
+Conversational AI for questioning
+</text>
+</g>
+</g>
+<g>
+<rect fill="#1168bd" height="300" rx="20" ry="20" stroke="#ff0000" stroke-width="30" width="450" x="100" y="600"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="325" y="721">
+Auth Portal
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="755">
+Portal for user authentication and access
+</text>
+</g>
+</g>
+<g>
+<g>
+<rect fill="#08427b" height="180" rx="90" stroke="#08427b" stroke-width="2" width="450" x="1750" y="270"/>
+<circle cx="1975" cy="216" fill="#08427b" r="66.666664" stroke="#08427b" stroke-width="2"/>
+<line stroke="#08427b" stroke-width="1" x1="1840" x2="1840" y1="350" y2="450"/>
+<line stroke="#08427b" stroke-width="1" x1="2110" x2="2110" y1="350" y2="450"/>
+</g>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="1975" y="271">
+Supervisor
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="1975" y="305">
+Monitors and manages users and the system
+</text>
+</g>
+</g>
+<g>
+<rect fill="#999999" height="300" rx="20" ry="20" stroke="#ffff00" stroke-width="30" width="450" x="100" y="2850"/>
+<g>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle" x="325" y="2971">
+Monitoring Service
+</text>
+<text dominant-baseline="hanging" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20px" text-anchor="middle" x="325" y="3005">
+Monitoring/telemetry
+</text>
+</g>
+</g>
+</svg>
