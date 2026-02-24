@@ -1,0 +1,37 @@
+[package]
+name = "structurizr-svg"
+version = "0.1.0"
+edition = "2021"
+authors = ["Structurizr Contributors"]
+description = "CLI tool for generating SVG diagrams from Structurizr DSL files"
+license = "Apache-2.0"
+repository = "https://github.com/structurizr/structurizr"
+keywords = ["structurizr", "svg", "architecture", "diagrams", "c4"]
+categories = ["command-line-utilities", "visualization"]
+
+[[bin]]
+name = "structurizr-svg"
+path = "src/main.rs"
+
+[dependencies]
+svg = "0.18"
+petgraph = "0.6"
+clap = { version = "4.5", features = ["derive"] }
+thiserror = "1.0"
+anyhow = "1.0"
+log = "0.4"
+env_logger = "0.11"
+regex = "1.10"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+[dev-dependencies]
+pretty_assertions = "1.4"
+insta = "1.39"
+tempfile = "3.12"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+strip = true
